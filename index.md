@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "ホーム"
+title: ""
 ---
 
 <h1> Tsubasa Kotani </h1>
