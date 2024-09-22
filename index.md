@@ -12,7 +12,7 @@ title: "ホーム"
 [研究について](./research.md)
 
 ### 査読付き論文
-1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2024), Parametric Study of the Harmonic Structure of Lower Hybrid Waves Driven by Energetic Ions, *Journal of Geophysical Research: Space Physics*, 129, e2024JA032824. https://doi.org/10.1029/2024JA032824
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2024), Parametric Study of the Harmonic Structure of Lower Hybrid Waves Driven by Energetic Ions, *Journal of Geophysical Research: Space Physics*, 129, e2024JA032824. [https://doi.org/10.1029/2024JA032824](https://doi.org/10.1029/2024JA032824)
 
 2. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2023), Simulation study of the harmonic structure of lower hybrid waves driven by energetic ions, *Physical Review E* , 108(3), 035208. [https://doi.org/10.1103/PhysRevE.108.035208](https://doi.org/10.1103/PhysRevE.108.035208)
 
