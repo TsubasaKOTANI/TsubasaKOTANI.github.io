@@ -1,6 +1,6 @@
 <!-- theme: jekyll-theme-slate -->
+theme: minima
 title: Tsubasa Kotani's Homepage
-search: true
 
 header_pages:
   - index.md
@@ -10,9 +10,3 @@ footer_text: "Copyright  © 2024 Tsubasa Kotani. All rights reserved."
 url: "https://tsubasakotani.github.io"
 description: "小谷翼のホームページです"
 
-author:
-  name: Tsubasa Kotani
-  links: &author_links
-    - label: Website
-      icon: fas fa-fw fa-home
-      url: https://akkinoc.dev
