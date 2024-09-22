@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: 研究
 ---
 
