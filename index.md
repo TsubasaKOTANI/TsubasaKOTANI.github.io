@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "小谷翼のホームページ"
+title: "ホーム"
 ---
 
 <h1> Tsubasa Kotani </h1>
