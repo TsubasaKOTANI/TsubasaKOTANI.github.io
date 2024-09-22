@@ -1,6 +1,5 @@
 ---
-<!-- layout: default -->
-layout: home
+layout: default
 title: "ホーム"
 ---
 
