@@ -1,5 +1,17 @@
 theme: jekyll-theme-slate
-title: Tsubasa Kotani's blog
+title: Tsubasa Kotani's Homepage
+
+author:
+  name: Tsubasa Kotani
+  links: &author_links
+    - label: Website
+      icon: fas fa-fw fa-home
+      url: https://akkinoc.dev
+
+# Site footer
+footer:
+  links: *author_links
+  
 defaults:
   - scope:
       path: ""
