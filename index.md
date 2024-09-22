@@ -20,7 +20,7 @@ title: "ホーム"
 4. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2021), PIC simulation of energetic‐ion injection effects on nonlinear development of lower hybrid wave instabilities, *Journal of the Physical Society of Japan*, 90(12), 124501. [https://doi.org/10.7566/JPSJ.90.124501](https://doi.org/10.7566/JPSJ.90.124501)
 
 ### 査読無し論文
-1. **Tsubasa Kotani**, Masatoshi Yamauchi, Hans Nilsson, Gabriella Stenberg-Wieser, Martin Wieser, Sofia Bergman, Satoshi Taguchi, Charlotte Götz (2020), Energy structure of the accelerated H2O ions above 1 KeV: the comet 67P/Churyumov-Gerasimenko observed by the Rosetta spacecraft, Europlanet Science Congress 2020, EPSC2020-576, [https://doi.org/10.5194/epsc2020-576](https://doi.org/10.5194/epsc2020-576)
+1. **Tsubasa Kotani**, Masatoshi Yamauchi, Hans Nilsson, Gabriella Stenberg-Wieser, Martin Wieser, Sofia Bergman, Satoshi Taguchi, Charlotte Götz (2020), Energy structure of the accelerated H2O ions above 1 KeV: the comet 67P/Churyumov-Gerasimenko observed by the Rosetta spacecraft, Europlanet Science Congress 2020, EPSC2020-576. [https://doi.org/10.5194/epsc2020-576](https://doi.org/10.5194/epsc2020-576)
 
 
 # 略歴
