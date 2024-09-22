@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: home
 title: "ホーム"
 ---
 
