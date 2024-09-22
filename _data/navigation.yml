@@ -1,0 +1,8 @@
+# Main
+main:
+  - title: Home
+    url: /
+  - title: Works
+    url: /works/libraries/
+  - title: Archive
+    url: /archive/posts/
