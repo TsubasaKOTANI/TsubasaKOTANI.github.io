@@ -8,7 +8,7 @@ title: "ホーム"
 京都大学大学院理学研究科附属地磁気世界資料解析センター
 助教
 
-## 略歴
+# 略歴
 ### 職歴
 - 2023年8月-現在 京都大学大学院理学研究科附属 地磁気世界資料解析センター 助教
 - 2023年4月-2023年7月 日本学術振興会 特別研究員(PD, 資格変更)
@@ -26,5 +26,7 @@ title: "ホーム"
 - 2022年11月11日 Best Student Presentation Award（31st International Toki Conference）
 
 # 研究
-
 [研究について](./research.md)
+
+### 査読付き論文
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi, "Parametric Study of the Harmonic Structure of Lower Hybrid Waves Driven by Energetic Ions", Journal of Geophysical Research: Space Physics, 2024年09月
