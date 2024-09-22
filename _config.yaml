@@ -2,6 +2,14 @@ theme: jekyll-theme-slate
 title: Tsubasa Kotani's Homepage
 search: true
 
+header_pages:
+  - index.md
+  - research.md
+
+footer_text: "Copyright  © 2024 Tsubasa Kotani. All rights reserved."
+url: "https://tsubasakotani.github.io"
+description: "小谷翼のホームページです"
+
 author:
   name: Tsubasa Kotani
   links: &author_links
