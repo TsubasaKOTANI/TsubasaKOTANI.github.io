@@ -16,16 +16,3 @@ author:
     - label: Website
       icon: fas fa-fw fa-home
       url: https://akkinoc.dev
-
-# Site footer
-footer:
-  links: *author_links
-  
-defaults:
-  - scope:
-      path: ""
-      type: works
-    values:
-      classes: wide
-      sidebar:
-        - nav: works
